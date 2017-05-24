@@ -1,5 +1,5 @@
 package edu.impacta.gcmaula11;
-
+//Metodos implementados.
 public class ContaBancaria {
 	private long saldo;
 	public ContaBancaria() { saldo = 0; }
